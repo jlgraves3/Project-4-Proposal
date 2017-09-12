@@ -27,3 +27,9 @@ When the user is not logged in, they can browse and stream music through the API
 
 ## Forseen Challenges
 I think that using Socket IO will be a challenge because I don't have much experience with it. I also think the searching/streaming music will be difficult.  
+
+## Wireframes
+
+![wireframe](https://github.com/jlgraves3/Project-4-Proposal/blob/master/Desktop%20HD.png?raw=true)
+
+![wireframe](https://github.com/jlgraves3/Project-4-Proposal/blob/master/Desktop%20HD%20Copy.png?raw=true)
